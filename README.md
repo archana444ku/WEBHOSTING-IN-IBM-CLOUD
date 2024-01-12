@@ -1,16 +1,19 @@
 # WEBHOSTING-IN-IBM-CLOUD
 
-##REQUIREMENTS 
-#TECHNOLOGY STACK 
+                     ##REQUIREMENTS 
+          #TECHNOLOGY STACK 
 •	Frontend static website.  
 •	Programming Languages: , HTML, CSS, and JavaScript  
 •	IBM CLOUD OBJECT STORAGE
-##HARDWARE 
+
+                  ##HARDWARE 
 •	Server: A dedicated server or cloud-based virtual machine (VM) 
 •	CPU and RAM 
 •	Storage: Adequate storage space for the database, application code, and uploaded files. 
 •	Network Infrastructure: Reliable internet connectivity, firewalls, and security measures to protect the system. 
-##SOFTWARE 
+
+
+             ##SOFTWARE 
 •	Operating System 
 •	.html css javascripts
 •	Development Tools: Visual Studio Code 
@@ -18,7 +21,8 @@
 •	OBJECT storage
 •	Version Control Tools: GitHub or GitLab  
 •	Web Server 
-##DEPLOYMENT ENVIRONMENT 
+
+               ##DEPLOYMENT ENVIRONMENT 
 •	The size and complexity of the project 
 •	The security requirements of the project 
 •	The budget for the project 
